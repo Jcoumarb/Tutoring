@@ -2,4 +2,4 @@
 
 I made a repo to store all demos and pictures of examples given
 
-![Dynamic Programming](dynamic_programming.HEIC)
+![Dynamic Programming](/pics/dynamic_programming.HEIC)
